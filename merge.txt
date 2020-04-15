@@ -4,4 +4,6 @@ test 2
 
 test4
 
---> --W
+--> <--
+
+--> conflict
